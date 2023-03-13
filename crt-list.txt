@@ -1,0 +1,2 @@
+old.example.org.pem [alpn h2,http/1.1,http/1.0 ssl-min-ver TLSv1.0]
+modern.example.org.pem [alpn h2 ssl-min-ver TLSv1.2]
